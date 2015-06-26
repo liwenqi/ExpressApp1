@@ -1,0 +1,19 @@
+{
+  "name": "ExpressApp1",
+  "version": "0.0.0",
+  "description": "ExpressApp1",
+  "main": "app.js",
+  "author": {
+    "name": "liwenqi",
+    "email": ""
+  },
+  "dependencies": {
+    "async": "^1.2.1",
+    "express": "3.4.4",
+    "jade": "*",
+    "mongodb": "^2.0.35",
+    "mysql": "^2.7.0",
+    "node-gyp": "^2.0.1",
+    "stylus": "*"
+  }
+}
